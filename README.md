@@ -1,11 +1,9 @@
 # Real-Time Vehicle and Lane Detection in Urban Environments Using YOLO11m
 
-### **Luis Barba-Guaman**$^1$ y **Jordy Corrales Zapata**$^2$
+### **Luis Barba-Guaman**y **Jordy Corrales Zapata**
 
-$^1$ Universidad Técnica Particular de Loja, Departamento de Ciencias de Computación y Electrónica, Ecuador  
+Universidad Técnica Particular de Loja, Departamento de Ciencias de Computación y Electrónica, Ecuador  
 ✉️ <lrbarba@utpl.edu.ec>
-
-$^2$ Universidad Técnica Particular de Loja, Ecuador  
 ✉️ <jacorrales@utpl.edu.ec>
 
 ---
