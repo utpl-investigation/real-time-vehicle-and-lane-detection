@@ -37,8 +37,9 @@ El entorno de desarrollo se ejecutó en
 
 ---
 
-## Descripción de los archivos .py
+## Descripción del prototipo
 
+El código se encuentran en la carpeta :open_file_folder: `/src`
 
 #### Interfaz de Usuario (`src/ui/`)
 
