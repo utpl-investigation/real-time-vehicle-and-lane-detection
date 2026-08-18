@@ -1,0 +1,13 @@
+# Dependencias directas del MVP para Python 3.14.5 y NVIDIA Blackwell.
+# Instalar dentro del venv con: python -m pip install -r requirements.txt
+--extra-index-url https://download.pytorch.org/whl/cu130
+
+# Los wheels cu130 incluyen soporte para la RTX 5050 (compute capability 12.0).
+torch==2.13.0+cu130
+torchvision==0.28.0+cu130
+
+# Inferencia, video e interfaz. Las dependencias transitivas las resuelve pip.
+ultralytics==8.4.120
+opencv-python==5.0.0.93
+numpy==2.5.1
+flet[all]==0.86.5
